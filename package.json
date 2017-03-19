@@ -1,0 +1,14 @@
+{
+  "name": "tiz-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "cd node_modules; ln -sf ../app;"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tiz": "*"
+  }
+}
