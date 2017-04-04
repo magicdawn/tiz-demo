@@ -9,10 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "log-reject-error": "^0.0.2",
     "tiz": "*"
   },
   "devDependencies": {
     "eslint": "^3.18.0",
     "eslint-plugin-magicdawn": "^0.0.2"
-  }
+  },
+  "moduleRoots": [
+    ""
+  ]
 }
