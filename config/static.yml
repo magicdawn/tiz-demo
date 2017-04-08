@@ -2,4 +2,18 @@
 # static config
 #
 
-favicon: false
+#
+# favicon: false | String
+#
+# favicon: false
+# favicon: app/public/icon/favicon.ico
+
+#
+# public: Object | Array<Object>
+#
+public:
+  - prefix: /somefiles
+    dir: app/public
+    maxage: 1y
+    headers:
+      # cache-control: no-cache
