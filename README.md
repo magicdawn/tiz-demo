@@ -1,5 +1,7 @@
 # Tiz
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/tiz-demo.svg)](https://greenkeeper.io/)
+
 ## config
 
 - normal config, `normal.js / json / yaml / yml`, results `app.config.normal`
