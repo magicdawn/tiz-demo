@@ -9,5 +9,9 @@ module.exports = {
         list: arr
       }
     }
+  },
+
+  async comments(ctx) {
+    ctx.body = await PostComment.findAll()
   }
 }

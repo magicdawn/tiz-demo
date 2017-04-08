@@ -7,3 +7,8 @@ mysql-local:
   dialect: mysql
   user: root
   database: test
+
+mysql-local-2:
+  dialect: mysql
+  user: root
+  database: test
